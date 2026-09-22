@@ -1,0 +1,15 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+*.mex*
+*.slxc
+slprj/
+sccprj/
+codegen/
+
+# Comment out the next line if any .mat file holds calibration data
+*.mat
+
+# OS
+.DS_Store
